@@ -18,4 +18,4 @@ Desarrollador de software en Buenos Aires. Programo desde 2023 y estudio la Lice
 | COBOL | [proyectos-cobol](https://github.com/JoacoB-dev/proyectos-cobol) | GnuCOBOL, JCL |
 | Sistemas | [proyectos-telecom](https://github.com/JoacoB-dev/proyectos-telecom) | C, C++/Qt, Java, Python |
 | PHP | [gestor-clientes](https://github.com/JoacoB-dev/gestor-clientes) · [tablero-tickets](https://github.com/JoacoB-dev/tablero-tickets) · [panel-reportes](https://github.com/JoacoB-dev/panel-reportes) · [api-productos](https://github.com/JoacoB-dev/api-productos) · [inventario](https://github.com/JoacoB-dev/inventario) · [agenda-turnos](https://github.com/JoacoB-dev/agenda-turnos) · [migracion-php4-pdo](https://github.com/JoacoB-dev/migracion-php4-pdo) | PHP, MySQL, jQuery, Bootstrap |
-| Web para clientes | [blackseven.com.ar](https://www.blackseven.com.ar) | Sitio en producción |
+| Web para clientes | [blackseven.com.ar](https://www.blackseven.com.ar) | Next.js, TypeScript, Supabase (tienda terminada, a lanzar) |
